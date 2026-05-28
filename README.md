@@ -1,55 +1,54 @@
-# ADVOKAT CORE v1.0
+# COMBATUS OS
 
-Execution-first decision and action framework.
+## Overview
 
----
+COMBATUS OS is a decision and execution framework designed to reduce any situation into a single actionable step.
 
-## CORE IDEA
-Any situation is reduced to:
-→ 1 decision → 1 action → immediate execution → next step
-
----
-
-## START TRIGGER
-ADVOKAT CORE // EXEC MODE | AGENT ON | 1 STEP ≤2MIN | NO ANALYSIS | CONTINUE CHAIN
+It is not a thinking model.
+It is an execution system.
 
 ---
 
-## MODES
+## Core Principle
 
-### MENTOR MODE
-- explanation only
-- understanding-focused
-- no action output
+**REALITY > GOAL > STATE > LOGIC**
 
-### ADVOKAT MODE
-- execution only
-- 1 step at a time
-- no analysis
-- no planning
+Decision priority is strictly ordered:
+
+- Reality defines what is possible
+- Goals are constrained by reality
+- State (energy, context, constraints) affects execution
+- Logic is used only for reduction, not expansion
 
 ---
 
-## WHAT THIS SYSTEM DOES
+## Operating Rules
 
-- removes overthinking
-- forces reduction to smallest action
-- creates continuous action chains
-- prevents decision paralysis
-
----
-
-## STACK POSITION
-This system acts as an execution layer over any productivity system.
-
-It does NOT replace:
-- planning systems
-- knowledge systems
-- task systems
-
-It executes them.
+- Exactly one next action at all times
+- No parallel decisions
+- No theory without execution
+- Continuous reduction until action is possible
+- Thinking stops when execution is possible
+- Default action scope: ≤ 2 minutes to start
 
 ---
 
-## VERSION
-v1.0 – stable execution model
+## System Behavior
+
+COMBATUS OS processes input through four stages:
+
+1. **Scan**  
+   Identify the situation and remove non-essential information.
+
+2. **Reduce**  
+   Compress the problem into its smallest actionable core.
+
+3. **Decide**  
+   Select exactly one viable action.
+
+4. **Execute**  
+   Start the action immediately (no delay planning phase).
+
+---
+
+## Repository Structure
